@@ -1,0 +1,5 @@
+package ro.nophinity.openxchange.interfaces;
+
+public class InterfaceFast {
+
+}
